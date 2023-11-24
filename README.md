@@ -67,3 +67,8 @@ VR project set up and testing. Users usually get confused about which button on 
 November 22th: 
 Add an arrow under character’s feet, pointing to where the user should head to
 Add an illustration of controller usage on the instruction UI page, to make the operation explanation clear for users. Many users spend a lot of time understanding how each button on the controllers work. 
+
+## Video Demo: 
+https://youtu.be/pLsEKYtPNKU
+
+
