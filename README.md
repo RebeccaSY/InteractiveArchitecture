@@ -56,8 +56,8 @@ The setup of the VR project encountered difficulties. The package manager takes 
 I updated Unity to the 2022 version, and the issue is resolved. The package manager is working fine now. It's possible that the previous 2020 version was too outdated and didn't match with the new modules. Build and run is also much faster now.  
 
 A plan for the steps of experience  
-![Image text](https://github.com/RebeccaSY/InteractiveArchitecture/blob/main/images/plan01.png)  
-![Image text](https://github.com/RebeccaSY/InteractiveArchitecture/blob/main/images/plan02.png)  
+![Image text](https://github.com/RebeccaSY/InteractiveArchitecture/blob/main/sketches/plan01.png)  
+![Image text](https://github.com/RebeccaSY/InteractiveArchitecture/blob/main/sketches/plan02.png)  
 
 October 27th:  
 Using UI for guidance is essential. Based on my previous experience, many users are unfamiliar with VR, and they tend to get lost in the virtual space. I've set up the UI to be toggleable at any time, and it's not in world space. When the button on the left controller is pressed, it opens and appears in front of the user, and closes if pressing the button’s pressed again.  
@@ -66,7 +66,7 @@ November 8th:
 Due to the large number of materials, I have many 'hoverEntered' events that require changing the render material of many objects. I override this part using a script I write by myself, relying on the built-in XR Simple Interactable. It reads the Tag of the GameObject, and as long as it conforms to the Tag, executes the operation uniformly.
 
 Details to be considered/finished (3D models to be done):  
-![Image text](https://github.com/RebeccaSY/InteractiveArchitecture/blob/main/images/plan_more.png)  
+![Image text](https://github.com/RebeccaSY/InteractiveArchitecture/blob/main/sketches/plan_more.png)  
   
 2D to 3D change was given up.  
 Reasons were considered more.  
