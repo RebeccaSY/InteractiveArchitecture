@@ -1,5 +1,5 @@
 # Time Warp Architecture Journey in VR
-**A journey through the architectural evolution in various parts of the world**
+**This immersive VR project offers a journey through the architectural evolution in various parts of the world. The experience illustrates the relationship between architecture, nature, and humanity, exploring details often ignored in our daily lives. Leveraging the advantages of VR to overcome temporal and spatial constraints, users are immersed in virtual architectural landscapes that traverse time and space. Interactivity enables users to closely examine intricate details, appreciate commonalities and differences, allowing participants to uncover the stories embedded in each element.**
 
 ## Technique:
 
